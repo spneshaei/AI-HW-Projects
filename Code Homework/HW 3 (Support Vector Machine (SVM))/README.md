@@ -1,0 +1,1 @@
+Code should be executed cell-by-cell from the "1.ipynb", "2.ipynb" and "PracAI3.ipynb" Jupyter Notebooks.
